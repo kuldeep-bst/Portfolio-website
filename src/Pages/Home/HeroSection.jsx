@@ -16,7 +16,7 @@ export default function HeroSection() {
         </div>
         <div>
           <a
-            href="https://drive.google.com/file/d/1uPUCca5q7O4b0q23OYSbqVPb6i9HKsX2/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1HDg6vyPssBa9AF9g_rPW3cMxgjROn3Gd/view?usp=sharing"
             className="navbar--content"
             target="_blank"
             rel="noreferrer"
