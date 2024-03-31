@@ -2,28 +2,31 @@ export default function HeroSection() {
   return (
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
-        <div className="hero--section-content">
-          <p className="section--title">Hey, how are you?</p>
+        <div className="hero--section--content">
+          <p className="section--title">Hey, I'm Kuldeep</p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Full Stack</span>{" "}
-            <br />
-            Developer
+            <span className="hero--section-title--color">Software</span> <br />
+            Engineer
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta non
-            doloremque autem quas consequatur eligendi et ab expedita delectus,
-            tenetur hic ipsum explicabo veniam. Dolore cum veniam sunt ipsa
-            voluptatem sed doloribus harum reprehenderit quidem, sequi nihil
-            ullam neque, quas eius beatae in eum, a nisi et quibusdam. Labore,
-            architecto!
-            <br />
-            Dolom, quas. Amet soliuta assumenda cum?
+            As a 2023 MCA graduate and software engineer I'm dedicated to
+            leveraging my skills in software development to drive innovation and
+            solve complex challenges.
           </p>
         </div>
-        <button className="btn btn-primary">Get in touch</button>
+        <div>
+          <a
+            href="https://drive.google.com/file/d/1uPUCca5q7O4b0q23OYSbqVPb6i9HKsX2/view?usp=drive_link"
+            className="navbar--content"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="btn btn-primary">Resume</button>
+          </a>
+        </div>
       </div>
       <div className="hero--section--img">
-        <img src="./img/hero_img.png" alt="Hero Section" />
+        <img src="./img/coder1.jpg" alt="Hero Section" />
       </div>
     </section>
   );

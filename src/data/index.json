@@ -1,0 +1,102 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/react.png",
+            "title": "React.js",
+            "description": "Lorem ispnef dskfsd;lcnndj fajf;alf asfdasvjakvj d;v dkvj vaksdlvn alv"
+        },
+        {
+            "id": "2",
+            "src": "./img/java-script.png",
+            "title": "JavaScript",
+            "description": "Lorem ispnef dskfsd;lcnndj fajf;alf asfdasvjakvj d;v dkvj vaksdlvn alv"
+        },
+        {
+            "id": "3",
+            "src": "./img/git.png",
+            "title": "Git",
+            "description": "Lorem ispnef dskfsd;lcnndj fajf;alf asfdasvjakvj d;v dkvj vaksdlvn alv"
+        },
+        {
+            "id": "4",
+            "src": "./img/material.png",
+            "title": "Material UI",
+            "description": "Lorem ispnef dskfsd;lcnndj fajf;alf asfdasvjakvj d;v dkvj vaksdlvn alv"
+        }
+        ,
+        {
+            "id": "5",
+            "src": "./img/tialwind.png",
+            "title": "Tailwind CSS UI",
+            "description": "Lorem ispnef dskfsd;lcnndj fajf;alf asfdasvjakvj d;v dkvj vaksdlvn alv"
+        }
+        ,
+        {
+            "id": "6",
+            "src": "./img/unity.png",
+            "title": "Unity",
+            "description": "Lorem ispnef dskfsd;lcnndj fajf;alf asfdasvjakvj d;v dkvj vaksdlvn alv"
+        }
+        ,
+        {
+            "id": "7",
+            "src": "./img/sql.png",
+            "title": "MySql",
+            "description": "Lorem ispnef dskfsd;lcnndj fajf;alf asfdasvjakvj d;v dkvj vaksdlvn alv"
+        },
+        {
+            "id": "8",
+            "src": "./img/aws.png",
+            "title": "AWS",
+            "description": "Lorem ispnef dskfsd;lcnndj fajf;alf asfdasvjakvj d;v dkvj vaksdlvn alv"
+        },
+        {
+            "id": "9",
+            "src": "./img/mongodb.png",
+            "title": "MongoDB",
+            "description": "Lorem ispnef dskfsd;lcnndj fajf;alf asfdasvjakvj d;v dkvj vaksdlvn alv"
+        },
+        {
+            "id": "8",
+            "src": "./img/nodejs.png",
+            "title": "Node.js",
+            "description": "Lorem ispnef dskfsd;lcnndj fajf;alf asfdasvjakvj d;v dkvj vaksdlvn alv"
+        }
+        
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/project1.jpeg",
+            "title": "Youtube Colne",
+            "description": "Developed a YouTube clone React application, integrating data fetching from the Rapid API. It helped me to enhance my front-end development skills with React and Material UI, while also gaining experience in API integration and data manipulation.",
+            "link": "Live",
+            "url": "https://glistening-paprenjak-f50d54.netlify.app/"
+        },
+        {
+            "id": "2",
+            "src": "./img/project2.jpeg",
+            "title": "AR indoor navigation app",
+            "description": "Developed an indoor navigation AR app using Unity and ARCore, addressing the limitations of GPS navigation indoors. By harnessing augmented reality technology, the app provides reliable navigation solutions where traditional GPS systems falter.",
+            "link": "Demo",
+            "url": "https://drive.google.com/file/d/123-C-bhg7IJGdnhmnun-PNomgHGc4YNr/view?usp=sharing"
+        },
+        {
+            "id": "3",
+            "src": "./img/project3.jpeg",
+            "title": "Calulator",
+            "description": "Created a calculator app using React as a learning exercise, aimed at mastering React concepts. This project served as a hands-on opportunity to deepen my understanding of React's component-based architecture, state management,etc.",
+            "link": "Live",
+            "url": "https://capable-lebkuchen-ff6722.netlify.app/"
+        },
+        {
+            "id": "4",
+            "src": "./img/project4.jpeg",
+            "title": "To-Do app",
+            "description": "I created a todo app using the MERN stack as a learning project. This endeavor allowed me to gain practical experience with MongoDB, Express.js, React, and Node.js, covering both frontend and backend. Provided features like add to list and remove from list",
+            "link": "Live",
+            "url": "https://fluffy-bunny-666f12.netlify.app"
+        }
+    ]
+}
